@@ -31,6 +31,12 @@ Wonderful Ball 3D is a hyper-casual game consisting of three levels. The aim of 
 
 <img src="https://user-images.githubusercontent.com/99080432/214660126-0252150a-ecaa-4364-876a-ad86d9e6c6b2.png" width="200"> 
 
+## Sections from the game
 
 
 
+
+
+## Installation
+
+apk file = https://drive.google.com/drive/folders/1BIlJzER0X7cHeAmjy-l8glpI6yV3TOxw?usp=sharing
