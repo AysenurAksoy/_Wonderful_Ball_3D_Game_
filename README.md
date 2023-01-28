@@ -1,4 +1,4 @@
-# _Wonderful_Ball_3D_Game_
+# Wonderful Ball 3D Game
 
 ## About
 Wonderful Ball 3D is a hyper-casual game consisting of three levels. The aim of the game is to pass to the next level without hitting any standing or moving obstacle. After completing each level, the player gets a reward.If the player want, S/he can increase His/her earnings by watching the rewarded advertisement at the end of the level.
